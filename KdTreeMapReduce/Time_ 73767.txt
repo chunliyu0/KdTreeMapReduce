@@ -1,0 +1,49 @@
+Time: 70484   3.4843e+04
+Time: 195646  3.4817e+04
+
+Time: 71181
+Time: 61105
+
+Time: 71729
+Time: 64150
+
+Time: 72581
+Time: 138667
+
+Time: 71179
+Time: 84220
+
+
+6 reducer
+Time: 71241 
+
+11 reducer
+Time: 65434
+
+23 reducer
+Time: 61486
+
+46 reducer
+Time: 50297
+93 reducer
+Time: 45318
+
+4centers
+
+60
+Time: 65510
+
+120
+Time: 60183
+
+240
+Time: 52052
+
+470
+Time: 45413
+
+940
+Time: 39294
+
+
+

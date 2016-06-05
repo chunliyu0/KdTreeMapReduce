@@ -1,0 +1,40 @@
+TotalIO: 9227812
+TotalIO: 34268965: 24
+
+
+
+TotalIO: 9227832
+TotalIO: 10360051: 4
+
+
+TotalIO: 9394621
+TotalIO: 11488803: 6
+
+
+TotalIO: 9394653
+TotalIO: 25989309: 21
+
+
+TotalIO: 9394671
+TotalIO: 15157481: 12
+
+
+
+dif1 =
+
+   3.4972e+04
+
+
+dif2 =
+
+   3.4817e+04
+
+
+rate =
+
+    0.0044
+
+
+
+
+
