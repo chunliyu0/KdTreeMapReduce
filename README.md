@@ -1,4 +1,5 @@
-# KdTreeMapReduce
+# KdTreeMapReduce</br>
+![image](https://github.com/ycl11761/KdTreeMapReduce/blob/master/IPKMeans.JPG)</br>
 ##:+1: A	New	Parallelization	Method	for	K-means	 
    K-means is a popular clustering method used in data mining area. To work with large datasets, researchers propose PKMeans, which is a parallel k-means on MapReduce. </br>  
    However, the existing k-means parallelization methods including PKMeans have many limitations.</br>
